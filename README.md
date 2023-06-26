@@ -1,6 +1,6 @@
 # Elliptic-Curve-Cryptography
 This repository contains whole knowledge about what is elliptic  curve cryptography and how it works.
-#INTRODUCTION
+# INTRODUCTION
 Elliptic Curve Cryptography is an asymmetric encryption algorithm that employs the algebraic architecture of elliptic curves with finite fields.
 The term "elliptic curve " is derived from the ellipse. Elliptic curves are discovered in the form of the Diophantine equation for c,after the 17th century.
 This cryptography is an encryption technology comparable to RSA that enables the public key encryption.
