@@ -8,4 +8,4 @@ RSA's security is dependent on huge prime numbers but ECC leverages the mathemat
 Victor Miller and Neal Koblitz separately proposed elliptic curve ciphers in the mid 1980s.On a high level,they are analogs of actual public cryptosystems in which modular arthimetic is substituted by elliptic curve operations.
 # Components  of Elliptic Curve Cryptography
 # 1.ECC keys:
-
+# (i).Private Key:
