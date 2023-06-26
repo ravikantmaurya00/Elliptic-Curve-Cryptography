@@ -10,3 +10,5 @@ Victor Miller and Neal Koblitz separately proposed elliptic curve ciphers in the
 # 1.ECC keys:
 # (i).Private Key:
 ECC cryptography's private key is as simple as safely producing a random integer in a specific range , making it highly quick.Any integer in the field represents a valid ECC private key.
+# (ii).Public Key:
+Public keys within ECC are EC points , which are pairs of integers coordinates x,and y that lie on a curve .  
